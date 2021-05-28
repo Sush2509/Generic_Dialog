@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GenericDialogue</string>
+    <string name="click_me">Click Me!</string>
+    <string name="error_msg">Error Message</string>
+    <string name="saved_successfully">Saved Successfully</string>
+    <string name="loading">Loading...</string>
+    <string name="caution_title">This is a caution dialog...</string>
+    <string name="saved_msg">This is a saved dialog...</string>
+    <string name="loading_msg">This is a loading dialog...</string>
+</resources>
